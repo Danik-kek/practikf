@@ -146,7 +146,7 @@
             button_Help.Name = "button_Help";
             button_Help.Size = new Size(103, 30);
             button_Help.TabIndex = 31;
-            button_Help.Text = "Справка\r\n\r\n\r\n\r\n\r\n\r\nя хороший";
+            button_Help.Text = "Справка\r\n\r\n\r\n\r\n\r\n\r\nя ДОЛБОЁБ И есть справка \r\n";
             button_Help.UseVisualStyleBackColor = true;
             button_Help.Click += button_Help_Click;
             // 
